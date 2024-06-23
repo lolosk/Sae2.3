@@ -18,5 +18,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. Installer virtualbox et télécharger la vm suivante :
    [Sae23.ova](https://drive.google.com/file/d/1EqAZjmYGPRlEhxH2KDfv1JCBhCP-MZHX/view?usp=sharing)
-2. Installer et lancer la vm sur VirtualBo
+2. Installer et lancer la vm sur VirtualBox
 3. Lancer le projet Sae23 depuis NetBeans 8.2
