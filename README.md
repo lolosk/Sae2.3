@@ -13,7 +13,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - [Netbeans 8.2](https://netbeans.apache.org/download/index.html)
 - [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Apache Tomcat](http://tomcat.apache.org/)
-- Un client SQL comme [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Installation
 
