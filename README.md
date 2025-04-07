@@ -2,6 +2,10 @@
 
 Ce projet SAE2.3 consiste en la création d'un site web responsive pour le VendeeGlobe, utilisant un DAO pour communiquer avec une base de données SQL. Le site présente des informations sur les skippers, les bateaux et le classement par édition de cet événement prestigieux.
 
+
+![demo](https://github.com/lolosk/Sae2.3/blob/main/DAO.gif)
+
+
 ## Introduction
 
 Le projet SAE2.3 a pour objectif de créer un site web responsive pour le VendeeGlobe, en utilisant Java EE avec Netbeans 8.2, JDK et Tomcat. Le site présente les détails des skippers, des bateaux et des classements historiques par édition de cet événement de voile renommé.
